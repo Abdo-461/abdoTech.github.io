@@ -10077,7 +10077,7 @@ img::-moz-selection {
   font-size: 0.75rem;
   color: #fff;
   text-transform: uppercase;
-  background-color: #fed136;
+  background-color: #001f4f;
   border: 0;
 }
 #mainNav .navbar-brand {
@@ -10139,8 +10139,8 @@ header.masthead {
   padding-top: 10.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  color: #a9a9a9;
-  background-image: url("../assets/img/header-bg.jpg");
+  color: white;
+  background-image: url("../assets/img/header3.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -10173,7 +10173,7 @@ header.masthead .masthead-heading {
     margin-bottom: 2rem;
   }
   header.masthead .masthead-heading {
-    font-size: 2.5rem;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 4.5rem;
     margin-bottom: 4rem;
@@ -10474,7 +10474,7 @@ section#contact form#contactForm p.help-block {
   margin: 0;
 }
 section#contact form#contactForm .form-control:focus {
-  border-color: #fed136;
+  border-color: #000080;
   box-shadow: none;
 }
 section#contact form#contactForm ::-webkit-input-placeholder {
