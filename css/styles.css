@@ -478,6 +478,17 @@ mark,
   height: auto;
 }
 
+.img-fluid-2{
+  max-width: 100%;
+  height: auto;
+  margin-left: 65px;
+  background-color: white;
+}
+
+.image-container{
+  background-color: white;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
