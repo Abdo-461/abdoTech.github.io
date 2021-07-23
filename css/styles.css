@@ -2487,8 +2487,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #fec810;
-  border-color: #fec503;
+  background-color:var(--blue);
+  border-color:var(--blue);
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
@@ -10044,7 +10044,7 @@ p {
 }
 
 ::selection {
-  background: #fed136;
+  background: var(--blue);
   text-shadow: none;
 }
 
